@@ -5,7 +5,7 @@
 If you are into Dockerizing everything or you just want to have a better view
 over this update process (e.g., to see it in your cluster visualizer),
 this repository provides you with a Docker image to run the Duck DNS update
-for your the domain.
+for your domain.
 
 The provided image is open-source and built from scratch with the goal to enable you to run a stateless and an immutable container, according to the best practices.
 
